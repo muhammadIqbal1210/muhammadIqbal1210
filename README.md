@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there 👋, I'm Muhammad Iqbal<br>I am a Software Engineer and full-stack web developer passionate about building efficient, user-centric, and scalable digital solutions. With expertise in technologies like React, Next.js, and Spring Boot, I specialize in solving complex IT challenges and translating them into robust software. Combining strong technical skills with a background in team leadership, I am dedicated to delivering high-quality, impactful results.
+Hi there 👋, I'm Muhammad Iqbal
+I am a Software Engineer and full-stack web developer passionate about building efficient, user-centric, and scalable digital solutions. With expertise in technologies like React, Next.js, and Spring Boot, I specialize in solving complex IT challenges and translating them into robust software. Combining strong technical skills with a background in team leadership, I am dedicated to delivering high-quality, impactful results.
 
 
 ## 🌐 Socials:
